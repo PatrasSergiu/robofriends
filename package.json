@@ -2,6 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://PatrasSergiu.github.io/robofriends",
   "dependencies": {
     "gh-pages": "^6.3.0",
     "react": "^18.3.1",
